@@ -1,0 +1,3 @@
+to create welcome html file
+ and also create java script for welcome
+ 
